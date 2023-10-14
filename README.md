@@ -20,9 +20,8 @@
 <h3 align="left">🔎 Get to know me:</h3>
 
 ###
-
-<p align="left">Hi im Leonor, and i am studing at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)</p>
-<br><br>🔭 I'm working as an open-minded professional, eagerly exploring new job opportunities and innovative ideas in various fields.<br><br>📚 I'm currently learning Telecommunications and Computer Engineering, embracing the dynamic world of technology with a proactive and hardworking attitude.<br><br>⚡ In my free time, I passionately pursue new challenges and opportunities, always on the lookout for ways to expand my knowledge and make a positive impact.
+Hi im Leonor, and i am studing at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
+<p align="left">🔭 I'm working as an open-minded professional, eagerly exploring new job opportunities and innovative ideas in various fields.<br><br>📚 I'm currently learning Telecommunications and Computer Engineering, embracing the dynamic world of technology with a proactive and hardworking attitude.<br><br>⚡ In my free time, I passionately pursue new challenges and opportunities, always on the lookout for ways to expand my knowledge and make a positive impact.</p>
 
 ###
 
@@ -44,3 +43,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Prompt&pause=1000&width=435&height=30&lines=Hello+There!;Welcome+to+my+profile+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+#### 📚 I´m Currently studing at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
+#### ✏️ Freelance Designer on free times [AmadeuDesign](https://www.behance.net/amadeudesign)
+#### 📫 How to reach me: **joaoamadeusantos@gmail.com**
+‎ 
+<a href="https://github.com/joaoafs/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaoafs&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/joaoafs/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoafs&layout=compact&theme=transparent&langs_count=8&card_width=320" />
+</a>
+ㅤ
+<p align="left">
+<a href="https://linkedin.com/in/jamadeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamadeu" height="30" width="40" /></a>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoafs&label=Profile%20views&color=0e75b6&style=flat" alt="joaoafs" /> </p>
