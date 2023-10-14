@@ -21,9 +21,8 @@
 
 ###
 
-<p align="left">Hi im Leonor, and i am studing at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
-  
-<br><br>🔭 I'm working as an open-minded professional, eagerly exploring new job opportunities and innovative ideas in various fields.<br><br>📚 I'm currently learning Telecommunications and Computer Engineering, embracing the dynamic world of technology with a proactive and hardworking attitude.<br><br>⚡ In my free time, I passionately pursue new challenges and opportunities, always on the lookout for ways to expand my knowledge and make a positive impact.</p>
+<p align="left">Hi im Leonor, and i am studing at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)</p>
+<br><br>🔭 I'm working as an open-minded professional, eagerly exploring new job opportunities and innovative ideas in various fields.<br><br>📚 I'm currently learning Telecommunications and Computer Engineering, embracing the dynamic world of technology with a proactive and hardworking attitude.<br><br>⚡ In my free time, I passionately pursue new challenges and opportunities, always on the lookout for ways to expand my knowledge and make a positive impact.
 
 ###
 
